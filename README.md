@@ -1,1 +1,1 @@
-# Co_Req_College_Algebra
+# Co-Req College Algebra Lessons Using Julia
