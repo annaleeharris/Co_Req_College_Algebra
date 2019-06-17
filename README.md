@@ -1,1 +1,1 @@
-# Targeted Infusion Project: Infusion of Cyber, Research, and Peer-Led Team Learning to Enhance Minority STEM Majors’ Mathematics Performance (NSF:#1818440, Julia Diverse)  
+### Targeted Infusion Project: Infusion of Cyber, Research, and Peer-Led Team Learning to Enhance Minority STEM Majors’ Mathematics Performance (NSF HBCU-UP Targeted Infusion Project grant (#1818440) and Julia Computing Awards Diversity and Inclusion Grants Funded by Sloan Foundation )  
