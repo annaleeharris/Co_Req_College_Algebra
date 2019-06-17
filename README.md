@@ -17,13 +17,14 @@ This project addressed the nation’s dire shortage of a qualified STEM workforc
 
 
 **This repository contains the following items:**
-1. PowerPoint presentation from Peer-Lead-Team-Leaders (PLTLs) regarding their PLTL experience 
-2. Faculty Powerpoint presentation regarding the project implementations and outcomes
+1. Presentations from Peer-Lead-Team-Leaders (PLTLs) regarding their PLTL experience 
+2. Faculty presentation regarding the project implementations and outcomes
 3. Julia note that used in co-req. College Alegebra class
 4. Exponents and radical lesson utilizing Julia
-5. Julia class project
-6. Faculty workshop Julia notebook
-7. PLTL workshop Powerpoint presentation
+5. Class project in Julia notebook
+6. Project in Julia notebook
+7. Faculty workshop Julia notebook
+8. PLTL training presentation
 
 
 
