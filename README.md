@@ -16,7 +16,7 @@ Through NSF HBUC-UP TIP grant and Julia Computing Awards Diversity and Inclusion
 This project addressed the nation’s dire shortage of a qualified STEM workforce, specially a minority STEM workforce. This project’s activities can be disseminated to other institutions to increase their STEM retention and graduation rates. 
 
 
-####This folder contains the following items:
+**This folder contains the following items:**
 1. PowerPoint presentation from Peer-Lead-Team-Leaders (PLTLs) regarding their PLTL experience 
 2. Faculty Powerpoint presentation regarding the project implementations and outcomes
 3. Julia note that used in co-req. College Alegebra class
